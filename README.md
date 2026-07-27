@@ -28,3 +28,5 @@ Este foi um dos primeiros projetos com JavaScript, focado em entender como manip
 1. Clone este repositório:
 ```bash
 git clone https://mbarros-ux/Relogio-digital.git
+```
+ 2. Abra o arquivo ```index.html``` em seu navegador.
